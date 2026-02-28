@@ -1,0 +1,4 @@
+Nombre: Juan Carlos Monzón Morales
+Carnet:202500436
+
+Link de repositorio: https://github.com/juanmonzondev/IPC1_EJERCICIOS_202500436.git
